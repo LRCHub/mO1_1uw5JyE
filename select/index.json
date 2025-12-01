@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "負けないで",
+  "base_artist": "ZARD",
+  "createdAt": "2025-12-01T20:05:42.383146Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "負けないで",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/01_負けないで_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "負けないで",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/02_負けないで_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "負けないで、負けないで…",
+      "artist": "林原めぐみ",
+      "has_synced": false,
+      "path": "select/03_負けないで、負けないで..._林原めぐみ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "負けないで、負けないで…",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": false,
+      "path": "select/04_負けないで、負けないで..._Hayashibara,_Megumi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "「負けないで」Music Video",
+      "artist": "Zard",
+      "has_synced": false,
+      "path": "select/05_「負けないで」Music_Video_Zard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "負けないで",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/06_負けないで_ZARD.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "負けないで、負けないで・・・",
+      "artist": "林原めぐみ",
+      "has_synced": false,
+      "path": "select/07_負けないで、負けないで・・・_林原めぐみ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "負けないで",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/08_負けないで_ZARD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "負けないで、負けないで…",
+      "artist": "林原 めぐみ",
+      "has_synced": false,
+      "path": "select/pl_01_負けないで、負けないで..._林原_めぐみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "負けないで",
+      "artist": "林原 めぐみ",
+      "has_synced": false,
+      "path": "select/pl_02_負けないで_林原_めぐみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "負けないで",
+      "artist": "林原 めぐみ",
+      "has_synced": false,
+      "path": "select/pl_03_負けないで_林原_めぐみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "負けないで",
+      "artist": "林原 めぐみ",
+      "has_synced": false,
+      "path": "select/pl_04_負けないで_林原_めぐみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "負けないで",
+      "artist": "林原 めぐみ",
+      "has_synced": false,
+      "path": "select/pl_05_負けないで_林原_めぐみ.txt"
+    }
+  ]
+}
